@@ -2,7 +2,7 @@ versioning
 ==========
 svn :
 svn checkout --username "user" --password "pass" "depot_url"
-==========
+=
 svn export --username "login" --password "mot_de_passe" "URL_du_Repository"
 ==========
 svn update [dossier_à_updater]
